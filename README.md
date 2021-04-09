@@ -1,6 +1,6 @@
 👋 Hi, I'm Oscar a systems engineering student from Colombia.  
   
-I like science 🪐, to play the piano 🎹, videogames 🎮 and to learn new stuff 📕.
+I like science 🧠, to play the piano 🎹, videogames 🎮 and to learn new stuff 📕.
 I'm open to collaborate.
 
 ## Projects
