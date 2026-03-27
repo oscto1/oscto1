@@ -8,7 +8,7 @@ I'm a software engineer focused on C# and building structured, reliable systems.
 - Git, software development workflows
 
 🚀 Projects:
-- Multiplayer application built with Unity and Netcode for GameObjects
+- Multiplayer application built with Unity and Netcode for GameObjects. [See updates...](https://www.instagram.com/olliqadev/)
 - Small 2D/3D projects focused on systems and logic
 
 🔍 Interests:
