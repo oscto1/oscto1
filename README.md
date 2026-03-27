@@ -1,4 +1,4 @@
-# Hi, I'm Oscar 👋
+# Hi, I'm Oscar Castillejo👋
 
 I'm a software engineer focused on C# and building structured, reliable systems.
 
