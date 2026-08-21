@@ -1,24 +1,37 @@
-# Hi, I'm Oscar Castillejo👋
+# Hi, I'm Oscar Castillejo 👋
 
-I'm a software engineer focused on C# and building structured, reliable systems.
+Software Engineer focused on **C#, .NET, and building reliable software systems**.
 
-🛠️ Skills:
-- C#, Object-Oriented Programming
+### 🛠️ Skills
+
+- C#, .NET, ASP.NET Core
+- Entity Framework Core, SQL
+- Object-Oriented Programming
+- Git & GitHub
 - Debugging & problem solving
-- Git, software development workflows
 
-🚀 Projects:
-- Multiplayer application built with Unity and Netcode for GameObjects. [See updates...](https://www.instagram.com/olliqadev/)
-- Small 2D/3D projects focused on systems and logic
+### 🚀 Projects
 
-🔍 Interests:
-- Software engineering
-- Systems design
-- Networking
+**[PrinterMNG](https://github.com/oscto1/printerMNG)** — ASP.NET Core application for managing printer rentals, clients, contracts, and monthly readings.
+- RESTful API built with ASP.NET Core Minimal APIs
+- Entity Framework Core and SQLite
+- Relational data modeling and validation
 
-📫 Contact:
+**[ForkFest](https://www.instagram.com/olliqadev/)** — Multiplayer racing game built with Unity and C#.
+- Multiplayer systems using Netcode for GameObjects
+- Client-server architecture and state synchronization
+- Gameplay systems and debugging
+
+### 🔍 Interests
+
+- Software Engineering
+- Backend Development
+- Game Development
+- Systems & Networking
+
+### 📫 Contact
+
 - Email: oscarcastillejo2@gmail.com
-
 <!---
 oscto1/oscto1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
